@@ -1,0 +1,29 @@
+1-	 Exemplos simples de uma estrutura de repetição (loop) e uma estrutura de tomada de decisão (condicional) em Python:
+      Exemplo de Estrutura de Repetição (Loop - While): 
+python
+Copy code
+# Estrutura de Repetição (Loop - While)
+contador = 0
+
+while contador < 5:
+    print("Número:", contador)
+    contador += 1
+No exemplo acima, o programa vai imprimir os números de 0 a 4 usando um loop while.
+
+Exemplo de Estrutura de Tomada de Decisão (Condicional - If-Else):
+
+python
+Copy code
+# Estrutura de Tomada de Decisão (Condicional - If-Else)
+idade = int(input("Digite sua idade: "))
+
+if idade >= 18:
+    print("Você é maior de idade.")
+else:
+    print("Você é menor de idade.")
+No exemplo acima, o programa solicita ao usuário para digitar a sua idade. Com base na entrada, ele vai tomar uma decisão e irá imprimir se a pessoa é maior ou menor de idade.
+
+Esses são exemplos simples, e você pode adaptar e expandir conforme necessário para que atenda aos requisitos específicos de seu projeto.
+
+
+
